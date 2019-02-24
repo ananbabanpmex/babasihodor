@@ -1,1 +1,1 @@
-worker: node vutu.js
+bot: node bot.js
