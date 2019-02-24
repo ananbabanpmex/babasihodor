@@ -1,0 +1,28 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serhann/Ejder-BOT.git"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "chalk": "^2.1.0",
+    "moment": "^2.18.1"
+  },
+  "author": "Serhann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Serhann/Ejder-BOT/issues"
+  },
+  "homepage": "https://github.com/Serhann/Ejder-BOT#readme"
+}
