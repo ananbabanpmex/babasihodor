@@ -8,7 +8,7 @@ bot.on('ready', () => {
 });
 
 bot.on('guildMemberAdd', member => {
-    member.guild.channels.get('519561388113395713').send('Hey ' + '<@' + member.user.id + '>' + ', Discord Sunucumuza Hojjgeldiniz efenim :tada::hugging: !'); 
+    member.guild.channels.get('438404115757006878').send('Hey ' + '<@' + member.user.id + '>' + ', Discord Sunucumuza Hojjgeldiniz efenim :tada::hugging: !'); 
 });
 
-bot.login('NTQ3Nzk3Njg3OTAzMzIyMTUw.D07_3Q.aMVa38xJnwsQv6FBu-1HDg_Bw38');
+bot.login('NTQ5MjIxMDI3Njc5NTY3ODg5.D1RL-w.41tHCH28PrQdzmfzGCHOvzIFd1k');
